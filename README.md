@@ -107,8 +107,7 @@ Supported zero-shot tasks: BoolQ, RTE, HellaSwag, ARC-Challenge, MNLI
 ## 💾 Installation
 
 ```bash
-git clone https://github.com/yourusername/llm-pruning-toolkit.git
-cd llm-pruning-toolkit
+git clone https://github.com/cRED-f/ClearCut-Pruning-Efficient-Weight-Refinement-for-LLM-Compression.git
 ```
 
 **Dependencies:**
