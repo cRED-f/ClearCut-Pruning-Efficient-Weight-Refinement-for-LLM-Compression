@@ -12,7 +12,7 @@ A comprehensive implementation of post-training pruning methods for large langua
 
 ## 📊 Results (50% Sparsity on WikiText2)
 
-| Model        | SparseGPT | Wanda | RIA   | **LGI (Ours)** |
+| Model        | SparseGPT | Wanda | RIA   | **ClearCut(Ours)** |
 | ------------ | --------- | ----- | ----- | -------------- |
 | LLaMA-2-7B   | 7.24      | 7.26  | 6.81  | **6.78**       |
 | LLaMA-3.1-8B | -         | -     | 9.43  | **9.39**       |
