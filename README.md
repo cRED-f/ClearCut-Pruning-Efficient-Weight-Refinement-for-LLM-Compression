@@ -165,8 +165,6 @@ python main.py \
     --prune_method ClearCut \
     --sparsity_type 2:4 \
     --calib_dataset c4 \
-    --reallocation \
-    --lsa \
     --save
 
 # RIA Pruning with unstructured 50% sparsity
